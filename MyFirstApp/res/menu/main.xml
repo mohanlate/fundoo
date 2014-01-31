@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_aboutUs" android:showAsAction="ifRoom" android:title="@string/action_aboutUs" />
+
+    <item android:id="@+id/action_services" android:showAsAction="ifRoom" android:title="@string/action_services" />
+
+    <item android:id="@+id/action_likeUs" android:showAsAction="ifRoom" android:title="@string/action_likeUs" /><item
+        android:id="@+id/action_contactUs"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_contactUs">
+    </item>
+ 
+    
+ 
+     <item android:id="@+id/action_settings" android:orderInCategory="100" android:showAsAction="never" android:title="@string/action_settings" />
+ 
+    
+</menu>
